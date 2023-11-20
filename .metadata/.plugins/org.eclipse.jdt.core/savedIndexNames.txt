@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\SENA\Desktop\javaexamen\.metadata\.plugins\org.eclipse.jdt.core
+1878312553.index
+3521259529.index
